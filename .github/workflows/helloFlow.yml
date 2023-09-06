@@ -7,4 +7,4 @@ jobs:
       - name: Diga oi
         run: echo "Hello World!"
       - name: Diga valeu
-    	run: echo "Valeu - bye!"
+    	  run: echo "Valeu - bye!"
